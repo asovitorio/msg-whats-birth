@@ -1,0 +1,15 @@
+
+.mainCcustomers{
+    
+    
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    overflow-y: auto;
+    height: 100vh;
+}
+
+.titleCustomers {
+display: block;
+width: 100%;
+}
