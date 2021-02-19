@@ -63,7 +63,7 @@ const [values,setValues] = useState(initialValues)
       }
     }
     findOne(id)
-  },[])
+  },[id])
 
   const classes= useStyles()
  
